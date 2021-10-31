@@ -29,9 +29,12 @@ body {
 }
 
 /*Table Design*/
+.projectsTable{
+    margin: 0 auto;
+}
+
 .projectsTable, table{
     border-style: none;
-    margin: 0 auto;
 }
 
 /*Page Design*/
