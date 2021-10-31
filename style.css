@@ -6,6 +6,10 @@ body {
     background-color: dimgrey;
 }
 
+h3{
+    text-decoration: underline;
+}
+
 .topnav {
     overflow: hidden;
     background-color: black;
