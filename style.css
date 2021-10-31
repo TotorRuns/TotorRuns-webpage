@@ -35,12 +35,12 @@ body {
 
 /*Page Design*/
 .page{
-    padding: 5px;
+    padding: 10px;
 }
 
 /* Article CSS*/
 article {
-    background: white;
+    background: #9f9f9f;
     border: 3px solid #a0a0a0;
     width: 90%;
     margin: 20px auto;
