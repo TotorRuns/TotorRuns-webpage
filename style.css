@@ -31,7 +31,7 @@ body {
 /*Table Design*/
 .projectsTable, table{
     border-style: none;
-    align-items: center;
+    margin: 0 auto;
 }
 
 /*Page Design*/
