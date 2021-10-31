@@ -40,7 +40,7 @@ h2 {
 
 /*Table Design*/
 .projectsTable{
-    margin: 0 auto;
+    margin: center;
 }
 
 .projectsTable, table{
